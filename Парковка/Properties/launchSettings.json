@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Парковка": {
+      "commandName": "Project",
+      "commandLineArgs": "Доп_файлы\\места.txt Доп_файлы\\чек.txt "
+    }
+  }
+}
